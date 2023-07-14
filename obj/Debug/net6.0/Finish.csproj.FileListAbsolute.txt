@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Work_C_#/Finish/bin/Debug/net6.0/Finish
+/Users/admin/Desktop/Work_C_#/Finish/bin/Debug/net6.0/Finish.deps.json
+/Users/admin/Desktop/Work_C_#/Finish/bin/Debug/net6.0/Finish.runtimeconfig.json
+/Users/admin/Desktop/Work_C_#/Finish/bin/Debug/net6.0/Finish.dll
+/Users/admin/Desktop/Work_C_#/Finish/bin/Debug/net6.0/Finish.pdb
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.AssemblyInfo.cs
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.dll
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/refint/Finish.dll
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.pdb
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/Finish.genruntimeconfig.cache
+/Users/admin/Desktop/Work_C_#/Finish/obj/Debug/net6.0/ref/Finish.dll
